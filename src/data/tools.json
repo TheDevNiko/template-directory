@@ -1,8 +1,9 @@
 {
-  "financial_resources": [
+  "tools": [
     {
-      "category": "宏观数据来源",
-      "items": [
+      "title": "宏观数据来源",
+      "category": "macro_data",
+      "content": [
         {
           "title": "Trading Economics",
           "body": "全面宏观数据（CPI、PPI、就业、汇率、债券、GDP 等），有预测功能和历史数据。",
@@ -31,8 +32,9 @@
       ]
     },
     {
-      "category": "主要新闻资料来源",
-      "items": [
+      "title": "主要新闻资料来源",
+      "category": "news_sources",
+      "content": [
         {
           "title": "金十数据",
           "body": "提供全球金融市场实时数据、快讯和财经日历。",
@@ -61,8 +63,9 @@
       ]
     },
     {
-      "category": "Twitter 推荐账户",
-      "items": [
+      "title": "Twitter 推荐账户",
+      "category": "twitter_accounts",
+      "content": [
         {
           "title": "Nick Timiraos",
           "body": "美联储记者",
@@ -71,13 +74,14 @@
         {
           "title": "Anna Wong",
           "body": "经济学家",
-          "url": "https://twitter.com/annawong?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+          "url": "https://twitter.com/annawong"
         }
       ]
     },
     {
-      "category": "主要报告与数据工具",
-      "items": [
+      "title": "主要报告与数据工具",
+      "category": "reports_tools",
+      "content": [
         {
           "title": "CME FedWatch 工具",
           "body": "市场对美国加息降息概率的预测",
@@ -96,8 +100,9 @@
       ]
     },
     {
-      "category": "免费机构研究与分析",
-      "items": [
+      "title": "免费机构研究与分析",
+      "category": "free_research",
+      "content": [
         {
           "title": "摩根士丹利 (Morgan Stanley)",
           "body": "市场趋势与研究博客",
@@ -131,8 +136,9 @@
       ]
     },
     {
-      "category": "付费网站与平台",
-      "items": [
+      "title": "付费网站与平台",
+      "category": "paid_platforms",
+      "content": [
         {
           "title": "FactSet",
           "body": "全面金融及宏观数据库，专业机构使用广泛",
